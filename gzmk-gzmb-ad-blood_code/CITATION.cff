@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this software."
+title: "gzmk-gzmb-ad-blood: analysis code for GZMK/GZMB effector-memory CD8+ T-cell transcriptional signatures in MCI and AD whole blood"
+authors:
+  - family-names: Zaher
+    given-names: Kawther A.
+    orcid: "https://orcid.org/0000-0003-0909-6558"
+    affiliation: "Neuroscience and Geroscience Unit, King Fahd Medical Research Center, King Abdulaziz University"
+version: 1.0.0
+date-released: 2026-11-23
+license: MIT
+repository-code: "https://github.com/[USERNAME]/gzmk-gzmb-ad-blood"
+doi: "[Zenodo DOI]"
